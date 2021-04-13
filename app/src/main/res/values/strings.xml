@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Testing</string>
+    <string name="title">Main Activity Title</string>
+    <string name="username">Welcome back username</string>
+    <string name="button_back">BACK</string>
+    <string name="button_next">NEXT</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+</resources>
